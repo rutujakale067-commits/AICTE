@@ -1,0 +1,451 @@
+ocr_id,document_id,extracted_text,ocr_lines_json,confidence_score,language_detected,processing_time_ms,quality_score,ocr_status,created_at
+cb20e26f-c22f-4a89-9262-9b3da595d6c6,90b29c78-7192-4b9d-9a97-473259108f9f,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: GMR Technological Institute, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/6269/2024
+Date of Issue: 2022-09-03
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Technological Institute, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-09-03 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,739,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+9594971e-2557-4df0-8734-06895c751068,5ae858e6-1f6a-470e-bf76-5eed142303d8,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: GMR Technological Institute, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/6886/2024
+Date of Issue: 2023-07-01
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Technological Institute, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-07-01 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,765,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+93b69823-88df-47c5-937d-cde86a9b8d79,b0c4b72c-4fa6-41a8-959a-1352b49eda9f,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: GMR Technological Institute, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/9147/2024
+Date of Issue: 2023-06-10
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Technological Institute, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-06-10 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,927,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+9122dfbb-007a-4546-b33a-10ef3652525b,976633b4-4ee2-4d35-9657-7b5d507c4c37,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: GMR Technological Institute, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/4328/2024
+Date of Issue: 2022-11-24
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Technological Institute, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-11-24 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,829,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+7d35faa7-0923-4e02-aaa5-141f78543e63,e283e712-1782-4ff2-a304-c81e4ddc93e3,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: GMR Technological Institute, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/4625/2024
+Date of Issue: 2022-02-16
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Technological Institute, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-02-16 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,599,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+cb40dd3a-426c-4404-b905-7c7e55ec5d8f,9d7e1149-ac50-45d8-9803-42636be71dd5,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: GMR Technological Institute, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/7841/2024
+Date of Issue: 2023-07-21
+Valid up to: 2027-03-31
+Authority: Aurangabad State Technological University
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Technological Institute, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-07-21 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,752,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+66684224-7098-49b8-bfa6-0965270dcf2d,34ef2b2c-ce9a-49da-9600-26df882e4b92,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: Vel Institute of Engineering and Science, Rajkot
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/6535/2024
+Date of Issue: 2023-09-03
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Vel Institute of Engineering and Science, Rajkot"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-09-03 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,894,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+f28aa5e6-6fa3-42d9-83e7-388d12a16616,4ccd5733-c5de-40df-99c7-f61d77707d2f,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: Vel Institute of Engineering and Science, Rajkot
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/4087/2024
+Date of Issue: 2023-05-17
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Vel Institute of Engineering and Science, Rajkot"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-05-17 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,618,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+f9a45068-daff-46ed-ab60-80a6aa100340,52506a39-ba5f-4ff6-97c8-87c0a1c6be4f,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: Vel Institute of Engineering and Science, Rajkot
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/3149/2024
+Date of Issue: 2022-08-22
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Vel Institute of Engineering and Science, Rajkot"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-08-22 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,666,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+6801de5a-7391-4c6b-b643-4464c37efdf4,c28dabd1-2113-4f33-b0e4-c76d3eb5681a,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: Vel Institute of Engineering and Science, Rajkot
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/3017/2024
+Date of Issue: 2023-06-01
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Vel Institute of Engineering and Science, Rajkot"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-06-01 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,825,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+820f2f18-a2f1-450d-b836-8c289967d2c5,fe0a0b7c-bfdf-4a7c-ac2f-c2d237d2f682,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: Vel Institute of Engineering and Science, Rajkot
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/9761/2024
+Date of Issue: 2023-10-18
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Vel Institute of Engineering and Science, Rajkot"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-10-18 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1088,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+65c0bb6c-3898-4e89-b933-3390862fe194,a9e41039-1fbb-44b8-b2aa-40e8337242b1,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: Vel Institute of Engineering and Science, Rajkot
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/2771/2024
+Date of Issue: 2022-02-19
+Valid up to: 2027-03-31
+Authority: Rajkot State Technological University
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Vel Institute of Engineering and Science, Rajkot"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-02-19 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1119,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+5bcebebc-076f-4178-9166-57ad61a9950d,467b5cc0-2b32-4641-89c8-3e5b74300a74,"GOVERNMENT OF SOUTH_CENTRAL REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: Bannari Institute of Advanced Technology, Hyderabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/9702/2024
+Date of Issue: 2022-06-14
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Bannari Institute of Advanced Technology, Hyderabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-06-14 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,608,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+84ddf031-3e33-4116-b0e7-f7d0271b2f15,cb379a10-6253-42d2-b688-95325fa0d143,"GOVERNMENT OF SOUTH_CENTRAL REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: Bannari Institute of Advanced Technology, Hyderabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/7014/2024
+Date of Issue: 2022-09-27
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Bannari Institute of Advanced Technology, Hyderabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-09-27 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,914,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+38c27705-6961-4240-b563-e3a3930362db,3116c6f8-a882-464d-80ac-a8e8c58f900d,"GOVERNMENT OF SOUTH_CENTRAL REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: Bannari Institute of Advanced Technology, Hyderabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/4039/2024
+Date of Issue: 2023-06-03
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Bannari Institute of Advanced Technology, Hyderabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-06-03 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,469,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+dc4b35cb-83da-4380-bc5e-ba3724a4c10e,1a3a9409-5cf5-4a4f-8449-e5a69505c284,"GOVERNMENT OF SOUTH_CENTRAL REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: Bannari Institute of Advanced Technology, Hyderabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/2037/2024
+Date of Issue: 2022-09-02
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Bannari Institute of Advanced Technology, Hyderabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-09-02 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1124,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+70017953-8294-4699-b054-e6ebbe7b384e,cbbea799-c501-44e2-8abc-d3af6a1c0e1a,"GOVERNMENT OF SOUTH_CENTRAL REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: Bannari Institute of Advanced Technology, Hyderabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/9151/2024
+Date of Issue: 2022-07-14
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Bannari Institute of Advanced Technology, Hyderabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-07-14 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1014,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+1fd7554b-e6d4-4022-9496-397796b7beee,339d47d0-73e7-4145-8f4c-127da7da4635,"GOVERNMENT OF SOUTH_CENTRAL REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: Bannari Institute of Advanced Technology, Hyderabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/7714/2024
+Date of Issue: 2022-10-17
+Valid up to: 2027-03-31
+Authority: Hyderabad State Technological University
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Bannari Institute of Advanced Technology, Hyderabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-10-17 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1106,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+7b73d6e8-73fd-40b8-a2b1-53ea24489125,53142184-8ddc-4606-904f-0dd06bc4fc62,"GOVERNMENT OF SOUTHERN REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: Shree Academy of Engineering, Chennai
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/2148/2024
+Date of Issue: 2023-03-23
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shree Academy of Engineering, Chennai"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-03-23 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1003,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+c45028ea-cdc4-4c7c-aa24-404a8f63774a,c54f2997-530c-4996-959b-8fa0b376ce69,"GOVERNMENT OF SOUTHERN REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: Shree Academy of Engineering, Chennai
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/8898/2024
+Date of Issue: 2023-01-29
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shree Academy of Engineering, Chennai"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-01-29 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,574,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+3bbef732-5da6-45bc-88d1-2ebf48d99ffd,117c6361-ad21-4b17-adb9-0e2c10b29f02,"GOVERNMENT OF SOUTHERN REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: Shree Academy of Engineering, Chennai
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/5961/2024
+Date of Issue: 2022-12-08
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shree Academy of Engineering, Chennai"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-12-08 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,860,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+319014cb-3a5b-4ac0-8b54-d38c7c905893,b569fcc6-9f33-4f0f-8bd6-72b75bbb266d,"GOVERNMENT OF SOUTHERN REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: Shree Academy of Engineering, Chennai
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/6985/2024
+Date of Issue: 2023-10-25
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shree Academy of Engineering, Chennai"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-10-25 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,997,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+96f83663-6662-47d8-827e-e021e538c062,a7eac900-bc40-4813-8914-ddbf78021fa8,"GOVERNMENT OF SOUTHERN REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: Shree Academy of Engineering, Chennai
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/5750/2024
+Date of Issue: 2023-04-16
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shree Academy of Engineering, Chennai"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-04-16 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1113,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+00fa262d-be30-48da-86fd-6b7a64543f9a,45a49389-7bb8-4149-a01e-bb42cd07e01b,"GOVERNMENT OF SOUTHERN REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: Shree Academy of Engineering, Chennai
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/7294/2024
+Date of Issue: 2023-07-22
+Valid up to: 2027-03-31
+Authority: Chennai State Technological University
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shree Academy of Engineering, Chennai"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-07-22 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1126,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+59846d48-2247-42d4-8e21-6dad1fef1020,ae211133-1390-4acf-8219-dec5782251a8,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/5252/2024
+Date of Issue: 2022-01-18
+Valid up to: 2023-12-31
+Authority: State Fire Department
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-01-18 Valid up to: 2023-12-31"", ""confidence"": 0.991}]",0.9865,en,616,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+58e44358-5609-45af-a747-142f5c9773c2,2aefc2bc-ceae-4ae2-a0fc-fd6a15f659d4,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/3219/2024
+Date of Issue: 2022-11-24
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-11-24 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,815,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+2bc025c0-f05e-4f97-84e8-4905bb599d7f,2ac423fc-43bc-4c6a-a583-cc63674136a4,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/7873/2024
+Date of Issue: 2022-10-07
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-10-07 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1101,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+c35acc53-46ab-4889-85fb-77b465c1ada6,68e28b37-c5be-4f02-a069-8b3c6e07d490,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/9677/2024
+Date of Issue: 2022-10-24
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-10-24 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1104,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+8e5454f2-054b-4715-84e5-767752deb688,011f11ec-ad49-4d1b-8d19-ea0a4a213748,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/4002/2024
+Date of Issue: 2022-07-18
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-07-18 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,546,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+b46f775f-7a04-4edc-b276-41cbee5274a1,53d2bc37-e78b-4a33-bf53-b7a996cec3e2,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/6180/2024
+Date of Issue: 2022-11-27
+Valid up to: 2027-03-31
+Authority: Bengaluru State Technological University
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-11-27 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1151,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+cba00fb1-87a4-463c-8d97-7f7e209d3887,12e51592-207d-4dbf-a39b-cfa7ecfb22f4,"GOVERNMENT OF NORTH_WESTERN REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: Shri Institute of Advanced Technology, Panipat
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/7997/2024
+Date of Issue: 2022-01-03
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shri Institute of Advanced Technology, Panipat"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-01-03 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1106,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+f9ef8208-34eb-4d58-a31d-16097b60da06,1710ffc3-b036-4120-a92b-9730ebe577db,"GOVERNMENT OF NORTH_WESTERN REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: Shri Institute of Advanced Technology, Panipat
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/7666/2024
+Date of Issue: 2023-03-19
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shri Institute of Advanced Technology, Panipat"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-03-19 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,730,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+193c4b2b-183c-4ff9-abba-2d8009eeb787,52e2dc7a-5475-4efa-8954-3c7180f549d8,"GOVERNMENT OF NORTH_WESTERN REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: Shri Institute of Advanced Technology, Panipat
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/6922/2024
+Date of Issue: 2023-04-23
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shri Institute of Advanced Technology, Panipat"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-04-23 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,979,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+95e68f98-11a2-4159-85da-2e464baa8415,9062f246-e0d2-4356-aabf-81c4cc88c54f,"GOVERNMENT OF NORTH_WESTERN REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: Shri Institute of Advanced Technology, Panipat
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/7882/2024
+Date of Issue: 2022-02-18
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shri Institute of Advanced Technology, Panipat"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-02-18 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,995,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+6a5993ee-aa64-4256-a6ff-a1de04addebf,a3aa4b9c-4a05-407b-a2f4-8234e7f7f33b,"GOVERNMENT OF NORTH_WESTERN REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: Shri Institute of Advanced Technology, Panipat
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/4188/2024
+Date of Issue: 2022-01-06
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shri Institute of Advanced Technology, Panipat"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-01-06 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,792,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+7e6dbee7-f770-4d03-9c58-6909b7655aec,223c4fab-ed17-4cf6-b352-cbc5dc035b2b,"GOVERNMENT OF NORTH_WESTERN REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: Shri Institute of Advanced Technology, Panipat
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/4696/2024
+Date of Issue: 2022-01-26
+Valid up to: 2027-03-31
+Authority: Panipat State Technological University
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Shri Institute of Advanced Technology, Panipat"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-01-26 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1156,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+cef66b64-187b-4aa9-bc4f-e9c42eb63f9e,d4dd7538-b4ee-476d-9982-8e6972c7b568,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: Amrita Institute of Engineering and Science, Indore
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/2333/2024
+Date of Issue: 2023-09-20
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Amrita Institute of Engineering and Science, Indore"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-09-20 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,806,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+84a55032-81b6-4b0c-8dc0-f694089529a6,d798a8d0-84c7-4637-ac81-60f8da1a09f6,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: Amrita Institute of Engineering and Science, Indore
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/2645/2024
+Date of Issue: 2023-11-06
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Amrita Institute of Engineering and Science, Indore"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-11-06 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,844,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+c0aef9e3-a244-4f48-8a68-072fbb3080ec,5c4543b6-2b7c-45ad-88ba-db6feea2bbbc,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: Amrita Institute of Engineering and Science, Indore
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/3345/2024
+Date of Issue: 2022-07-19
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Amrita Institute of Engineering and Science, Indore"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-07-19 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,982,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+a450be6d-cfd5-426f-b7e2-1ef9fb28e4ec,d0c94051-3c19-4b06-a081-21b91f98ca4f,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: Amrita Institute of Engineering and Science, Indore
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/2426/2024
+Date of Issue: 2022-05-11
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Amrita Institute of Engineering and Science, Indore"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-05-11 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,758,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+1c6ce4b1-bfbb-413e-85c1-0c9062efbdd9,3ef26a8a-43df-4be7-b75a-fea6bbeeb29f,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: Amrita Institute of Engineering and Science, Indore
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/8311/2024
+Date of Issue: 2022-06-22
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Amrita Institute of Engineering and Science, Indore"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-06-22 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,568,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+23774083-4196-4432-8972-23754f097d48,930a4985-4d17-4e3f-a6e5-f45eae6b39a5,"GOVERNMENT OF CENTRAL REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: Amrita Institute of Engineering and Science, Indore
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/4987/2024
+Date of Issue: 2023-07-08
+Valid up to: 2027-03-31
+Authority: Indore State Technological University
+Built-up Area: 4502.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: Amrita Institute of Engineering and Science, Indore"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-07-08 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,666,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+5fb50bd8-1767-4e6f-a557-8933c448351f,936e7fa6-14a2-4172-b161-41ccb7a4e51a,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/6867/2024
+Date of Issue: 2022-05-14
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 4832.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-05-14 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,641,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+6f1a53eb-b070-44ee-90c0-3646a759752f,42d97969-47e7-44f9-80bf-7a3dc57e9ea2,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/4175/2024
+Date of Issue: 2022-08-16
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 4832.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-08-16 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,998,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+d27eaf77-b433-4dca-81d9-e2530eaa7b73,c8eeaa85-c9ca-40c8-8273-ac0c462af98f,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF STRUCTURAL_STABILITY
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/STRUCTURAL_STABILITY/1847/2024
+Date of Issue: 2022-09-24
+Valid up to: 2027-03-31
+Authority: Structural Engineer Association
+Built-up Area: 4832.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF STRUCTURAL_STABILITY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-09-24 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,731,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+dffb423e-b4e9-4dbd-9d73-f56198f88324,215dce7a-1bfa-4c46-86f2-549b1cd522f9,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF LAND_CONVERSION_CLU
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/LAND_CONVERSION_CLU/2694/2024
+Date of Issue: 2023-10-05
+Valid up to: 2027-03-31
+Authority: District Collector Revenue Office
+Built-up Area: 4832.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF LAND_CONVERSION_CLU"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-10-05 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,563,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+6a681b18-bac1-404b-9697-cd699910f548,1af28f20-059c-45b3-a268-a720cfa6776b,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF AFFIDAVIT_2
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/AFFIDAVIT_2/3323/2024
+Date of Issue: 2022-05-06
+Valid up to: 2027-03-31
+Authority: Sworn before Public Notary
+Built-up Area: 4832.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF AFFIDAVIT_2"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-05-06 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,739,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+3c03a304-6ccd-4914-9fac-613cc8bef933,dab29d53-7ba5-4f5e-b222-2fad9e477f18,"GOVERNMENT OF SOUTH_WESTERN REGION
+CERTIFICATE OF FORMAT_2_NOC
+Issued to: K. College of Engineering and Technology, Bengaluru
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FORMAT_2_NOC/9097/2024
+Date of Issue: 2022-04-06
+Valid up to: 2027-03-31
+Authority: Bengaluru State Technological University
+Built-up Area: 4832.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FORMAT_2_NOC"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: K. College of Engineering and Technology, Bengaluru"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2022-04-06 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,820,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+189df6b3-e02f-45b8-b1d6-17e8c4c21f3e,d5332300-589d-45c8-911c-741190baad39,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF FIRE_SAFETY
+Issued to: GMR Institute of Technology and Management, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/FIRE_SAFETY/3950/2024
+Date of Issue: 2023-06-28
+Valid up to: 2027-03-31
+Authority: State Fire Department
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF FIRE_SAFETY"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Institute of Technology and Management, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-06-28 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,757,0.954,COMPLETED,2024-02-14T11:25:00+05:30
+a020dbcd-e555-42b3-ae83-42cb8668a65b,179cb66a-8496-4a66-a4be-2d444f9073b6,"GOVERNMENT OF WESTERN REGION
+CERTIFICATE OF OCCUPANCY_CERT
+Issued to: GMR Institute of Technology and Management, Aurangabad
+Managed by: Vel Tech Academy Trust
+Certificate No: CERT/OCCUPANCY_CERT/9031/2024
+Date of Issue: 2023-11-16
+Valid up to: 2027-03-31
+Authority: Municipal Corporation
+Built-up Area: 5162.5 sq.m.","[{""bbox"": [[50, 100], [450, 100], [450, 130], [50, 130]], ""text"": ""CERTIFICATE OF OCCUPANCY_CERT"", ""confidence"": 0.992}, {""bbox"": [[50, 140], [500, 140], [500, 170], [50, 170]], ""text"": ""Issued to: GMR Institute of Technology and Management, Aurangabad"", ""confidence"": 0.985}, {""bbox"": [[50, 180], [480, 180], [480, 210], [50, 210]], ""text"": ""Managed by: Vel Tech Academy Trust"", ""confidence"": 0.978}, {""bbox"": [[50, 220], [380, 220], [380, 250], [50, 250]], ""text"": ""Date of Issue: 2023-11-16 Valid up to: 2027-03-31"", ""confidence"": 0.991}]",0.9865,en,1095,0.954,COMPLETED,2024-02-14T11:25:00+05:30

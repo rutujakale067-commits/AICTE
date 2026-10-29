@@ -1,0 +1,7 @@
+node_modules/
+dist/
+backend/verifyai.db
+backend/.jwt_secret
+backend/uploads/*
+backend/reports/*
+__pycache__/

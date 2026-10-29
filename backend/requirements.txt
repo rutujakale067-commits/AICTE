@@ -1,0 +1,13 @@
+fastapi>=0.110
+uvicorn>=0.29
+sqlalchemy>=2.0
+pydantic>=2.5
+python-multipart>=0.0.9
+pymupdf>=1.24
+reportlab>=4.0
+bcrypt>=4.0
+PyJWT>=2.7
+pillow>=10
+pytesseract>=0.3.10   # optional OCR fallback (needs the tesseract binary)
+httpx2>=0.1   # only needed for tests (starlette TestClient)
+pytest>=8   # tests only
